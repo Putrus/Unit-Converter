@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1553760042 source:d:\algorytmy\unit_converter\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+	<windows.h>
+
+1553476599 source:d:\algorytmy\unit_converter\unit.cpp
+	"Unit.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1553476768 d:\algorytmy\unit_converter\unit.h
+	<iostream>
+	<string>
+	<cmath>
+
